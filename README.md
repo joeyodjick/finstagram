@@ -1,4 +1,4 @@
-# finstagram
+gem # finstagram
 
 
 Welcome to the Lighthouse labs web fundamentals project! 
