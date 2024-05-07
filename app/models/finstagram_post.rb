@@ -27,3 +27,6 @@ class FinstagramPost < ActiveRecord::Base
     # New Stuff End
   end
   
+  class FinstagramPost < ActiveRecord::Base
+
+  end
